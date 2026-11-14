@@ -1,4 +1,4 @@
-const BASE_PATH = "/Schokk-Industry";
+const BASE_PATH = "/fixed-schokk-blitz";
 
 export function publicAsset(path?: string) {
   if (!path) return `${BASE_PATH}/images/placeholder.svg`;
