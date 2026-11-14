@@ -1,0 +1,55 @@
+[
+  {
+    "slug": "industrial-sector",
+    "name": "Industrial Sector",
+    "classification": "Industrial Environment",
+    "status": "Template record",
+    "description": "A sample map dossier for documenting layout, environmental features, objectives, and strategic considerations.",
+    "image": "/images/maps/industrial-sector.svg",
+    "tags": [
+      "Industrial",
+      "Standard"
+    ],
+    "difficulty": "Unconfirmed",
+    "environment": "Industrial complex",
+    "features": [
+      "Central production floor (placeholder)",
+      "Multiple approach lanes (placeholder)"
+    ],
+    "hazards": [
+      "No hazards verified"
+    ],
+    "strategy": "Add map-specific positioning and route recommendations after confirming the layout in-game.",
+    "relatedRecords": [
+      "ENM-0001",
+      "GDE-0002"
+    ],
+    "lastUpdated": "2026-11-14",
+    "id": "MAP-0001"
+  },
+  {
+    "slug": "frozen-outpost",
+    "name": "Frozen Outpost",
+    "classification": "Arctic Environment",
+    "status": "Template record",
+    "description": "A sample cold-weather map record. Replace the sample fields with the actual map's terrain and mechanics.",
+    "image": "/images/maps/frozen-outpost.svg",
+    "tags": [
+      "Arctic",
+      "Environment"
+    ],
+    "difficulty": "Unconfirmed",
+    "environment": "Frozen installation",
+    "features": [
+      "Snow-covered terrain (placeholder)",
+      "Outpost structures (placeholder)"
+    ],
+    "hazards": [
+      "No hazards verified"
+    ],
+    "strategy": "Document sightlines, chokepoints, and any environmental effects once confirmed.",
+    "relatedRecords": [],
+    "lastUpdated": "2026-11-14",
+    "id": "MAP-0002"
+  }
+]

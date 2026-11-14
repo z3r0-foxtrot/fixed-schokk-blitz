@@ -1,0 +1,34 @@
+[
+  {
+    "slug": "field-beacon",
+    "name": "Field Beacon",
+    "classification": "Utility",
+    "status": "Template record",
+    "description": "A sample utility item record. Document what the equipment does, how it is obtained, and any usage limitations.",
+    "image": "/images/equipment/field-beacon.svg",
+    "tags": [
+      "Utility",
+      "Deployable"
+    ],
+    "function": "Placeholder: describes a deployable utility function.",
+    "acquisition": "Not documented",
+    "limitations": [
+      "Unverified"
+    ],
+    "specifications": [
+      {
+        "label": "Deployment",
+        "value": "Unknown"
+      },
+      {
+        "label": "Duration",
+        "value": "Unknown"
+      }
+    ],
+    "relatedRecords": [
+      "MEC-0001"
+    ],
+    "lastUpdated": "2026-11-14",
+    "id": "EQP-0001"
+  }
+]

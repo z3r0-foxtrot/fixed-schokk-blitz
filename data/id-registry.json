@@ -1,0 +1,16 @@
+{
+  "sentinel": "TWR-0001",
+  "arc-lancer": "TWR-0002",
+  "scout-drone": "ENM-0001",
+  "siege-brute": "ENM-0002",
+  "industrial-sector": "MAP-0001",
+  "frozen-outpost": "MAP-0002",
+  "field-beacon": "EQP-0001",
+  "schokk-industry": "LOR-0001",
+  "blackout-incident": "LOR-0002",
+  "damage-types": "MEC-0001",
+  "targeting": "MEC-0002",
+  "getting-started": "GDE-0001",
+  "map-planning": "GDE-0002",
+  "database-preview-1": "UPD-0001"
+}

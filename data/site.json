@@ -1,0 +1,10 @@
+{
+  "name": "Schokk Blitz Database",
+  "organization": "Schokk Industry",
+  "subtitle": "Central Information Database",
+  "version": "1.0.0",
+  "description": "A centralized reference database for Schokk Blitz.",
+  "logo": "/images/branding/logo.svg",
+  "favicon": "/images/branding/favicon.svg",
+  "theme": "dark"
+}

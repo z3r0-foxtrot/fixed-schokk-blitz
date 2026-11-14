@@ -1,0 +1,85 @@
+[
+  {
+    "slug": "scout-drone",
+    "name": "Scout Drone",
+    "classification": "Light Enemy",
+    "status": "Template record",
+    "description": "A sample lightweight enemy entry. Use this template to document movement, durability, special behavior, and encounter context.",
+    "image": "/images/enemies/scout-drone.svg",
+    "tags": [
+      "Light",
+      "Mobile"
+    ],
+    "stats": [
+      {
+        "label": "Health",
+        "value": "60"
+      },
+      {
+        "label": "Movement Speed",
+        "value": "Fast"
+      },
+      {
+        "label": "Armor",
+        "value": "None"
+      }
+    ],
+    "abilities": [
+      "No special ability documented"
+    ],
+    "resistances": [
+      "None documented"
+    ],
+    "weaknesses": [
+      "None documented"
+    ],
+    "encounter": "Sample encounter information. Replace with confirmed spawn conditions.",
+    "relatedRecords": [
+      "MAP-0001",
+      "MEC-0001"
+    ],
+    "lastUpdated": "2026-11-14",
+    "id": "ENM-0001"
+  },
+  {
+    "slug": "siege-brute",
+    "name": "Siege Brute",
+    "classification": "Heavy Enemy",
+    "status": "Template record",
+    "description": "A sample heavy enemy record showing how armor, resistances, and boss-like traits can be represented.",
+    "image": "/images/enemies/siege-brute.svg",
+    "tags": [
+      "Heavy",
+      "Armored"
+    ],
+    "stats": [
+      {
+        "label": "Health",
+        "value": "\u2014"
+      },
+      {
+        "label": "Movement Speed",
+        "value": "Slow"
+      },
+      {
+        "label": "Armor",
+        "value": "Unknown"
+      }
+    ],
+    "abilities": [
+      "Heavy impact (placeholder)"
+    ],
+    "resistances": [
+      "Unverified"
+    ],
+    "weaknesses": [
+      "Unverified"
+    ],
+    "encounter": "Encounter conditions not yet documented.",
+    "relatedRecords": [
+      "MEC-0002"
+    ],
+    "lastUpdated": "2026-11-14",
+    "id": "ENM-0002"
+  }
+]

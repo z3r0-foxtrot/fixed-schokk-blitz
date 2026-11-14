@@ -1,0 +1,57 @@
+[
+  {
+    "slug": "damage-types",
+    "name": "Damage Types",
+    "classification": "Combat System",
+    "status": "Template record",
+    "description": "A reference entry for documenting damage categories, interactions, and special rules.",
+    "image": "/images/mechanics/damage-types.svg",
+    "tags": [
+      "Combat",
+      "Reference"
+    ],
+    "sections": [
+      {
+        "heading": "Overview",
+        "body": "Describe each confirmed damage type and how the game calculates its effects."
+      },
+      {
+        "heading": "Interactions",
+        "body": "Document enemy resistances, immunities, vulnerabilities, and exceptions."
+      }
+    ],
+    "relatedRecords": [
+      "TWR-0002",
+      "ENM-0002"
+    ],
+    "lastUpdated": "2026-11-14",
+    "id": "MEC-0001"
+  },
+  {
+    "slug": "targeting",
+    "name": "Targeting Rules",
+    "classification": "Tower System",
+    "status": "Template record",
+    "description": "A template for explaining target selection, priority rules, and tower targeting behavior.",
+    "image": "/images/mechanics/targeting.svg",
+    "tags": [
+      "Towers",
+      "Combat"
+    ],
+    "sections": [
+      {
+        "heading": "Overview",
+        "body": "Explain default targeting and any player-selectable targeting modes."
+      },
+      {
+        "heading": "Priority behavior",
+        "body": "Document targeting order and exceptions once verified."
+      }
+    ],
+    "relatedRecords": [
+      "TWR-0001"
+    ],
+    "lastUpdated": "2026-11-14",
+    "id": "MEC-0002"
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "slug": "database-preview-1",
+    "name": "Database Preview 1.0",
+    "classification": "Website Preview",
+    "status": "Template record",
+    "description": "Initial mock update record for the website preview. This is not an official Schokk Blitz game patch note.",
+    "image": "/images/updates/database-preview.svg",
+    "tags": [
+      "Website",
+      "Preview"
+    ],
+    "releaseDate": "2026-11-14",
+    "version": "DB-1.0",
+    "canonStatus": "WEBSITE PREVIEW",
+    "sections": [
+      {
+        "heading": "Website launch",
+        "body": "Initial structure for the Schokk Blitz information database."
+      },
+      {
+        "heading": "Content templates",
+        "body": "Added example records for towers, enemies, maps, equipment, lore, mechanics, and guides."
+      }
+    ],
+    "relatedRecords": [],
+    "lastUpdated": "2026-11-14",
+    "id": "UPD-0001"
+  }
+]

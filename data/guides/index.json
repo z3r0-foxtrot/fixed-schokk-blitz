@@ -1,0 +1,61 @@
+[
+  {
+    "slug": "getting-started",
+    "name": "Getting Started",
+    "classification": "Beginner Guide",
+    "status": "Template record",
+    "description": "A starting point for new players. Replace this sample content with an accurate beginner guide.",
+    "image": "/images/guides/getting-started.svg",
+    "tags": [
+      "Beginner",
+      "Fundamentals"
+    ],
+    "sections": [
+      {
+        "heading": "1. Understand the objective",
+        "body": "Explain the core objective and how a match is won or lost."
+      },
+      {
+        "heading": "2. Learn tower roles",
+        "body": "Introduce the main tower classifications and their intended uses."
+      },
+      {
+        "heading": "3. Improve your setup",
+        "body": "Explain placement, upgrades, and adapting to enemy waves."
+      }
+    ],
+    "relatedRecords": [
+      "MEC-0001",
+      "TWR-0001"
+    ],
+    "lastUpdated": "2026-11-14",
+    "id": "GDE-0001"
+  },
+  {
+    "slug": "map-planning",
+    "name": "Map Planning Fundamentals",
+    "classification": "Strategy Guide",
+    "status": "Template record",
+    "description": "A sample guide about evaluating routes, chokepoints, and placement opportunities.",
+    "image": "/images/guides/map-planning.svg",
+    "tags": [
+      "Strategy",
+      "Maps"
+    ],
+    "sections": [
+      {
+        "heading": "Evaluate the route",
+        "body": "Identify enemy paths, turns, and areas with useful coverage."
+      },
+      {
+        "heading": "Plan coverage",
+        "body": "Balance range overlap, lane coverage, and upgrade investment."
+      }
+    ],
+    "relatedRecords": [
+      "MAP-0001"
+    ],
+    "lastUpdated": "2026-11-14",
+    "id": "GDE-0002"
+  }
+]

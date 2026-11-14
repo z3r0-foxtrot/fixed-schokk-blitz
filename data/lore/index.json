@@ -1,0 +1,58 @@
+[
+  {
+    "slug": "schokk-industry",
+    "name": "Schokk Industry",
+    "classification": "Organization",
+    "status": "Supplementary",
+    "canonStatus": "SUPPLEMENTARY",
+    "description": "A placeholder organization entry for the wider Schokk Blitz setting. Replace this with official lore and clearly identify its canonical status.",
+    "image": "/images/lore/schokk-industry.svg",
+    "tags": [
+      "Organization",
+      "Corporate"
+    ],
+    "sections": [
+      {
+        "heading": "Overview",
+        "body": "This is a template entry. Add verified background, purpose, structure, and relevant history here."
+      },
+      {
+        "heading": "Known information",
+        "body": "Separate confirmed canon from supplementary interpretation. Cite or identify source material where possible."
+      }
+    ],
+    "relatedRecords": [
+      "LOR-0002"
+    ],
+    "lastUpdated": "2026-11-14",
+    "id": "LOR-0001"
+  },
+  {
+    "slug": "blackout-incident",
+    "name": "The Blackout Incident",
+    "classification": "Historical Event",
+    "status": "Supplementary",
+    "canonStatus": "SUPPLEMENTARY",
+    "description": "A sample historical event record demonstrating timeline and event documentation.",
+    "image": "/images/lore/blackout-incident.svg",
+    "tags": [
+      "Event",
+      "History"
+    ],
+    "sections": [
+      {
+        "heading": "Summary",
+        "body": "Placeholder event summary. Replace with approved lore."
+      },
+      {
+        "heading": "Timeline",
+        "body": "Add dated events and known consequences."
+      }
+    ],
+    "relatedRecords": [
+      "LOR-0001"
+    ],
+    "lastUpdated": "2026-11-14",
+    "id": "LOR-0002"
+  }
+]
