@@ -59,7 +59,7 @@ for (const [category, prefix] of Object.entries(categories)) {
     slugs.add(record.slug);
 
     if (record.image) {
-      const relativeImage = record.image.replace(/^\\/+/, "");
+      const relativeImage = record.image.startsWith("/") ? record.image.slice(1) : record.image;
       const imagePath = path.join(process.cwd(), "public", relativeImage);
       if (!fs.existsSync(imagePath)) errors.push(`${record.id}: image not found: ${record.image}`);
     }
