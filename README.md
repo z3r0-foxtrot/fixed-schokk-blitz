@@ -1,6 +1,6 @@
 # Schokk Blitz Database
 
-A desktop-first, dark-mode, in-universe Schokk Industry information system for Schokk Blitz. Built with Next.js, React, TypeScript, and repository-managed JSON content. Configured for GitHub Pages static export at `https://z3r0-foxtrot.github.io/Schokk-Industry/`.
+A desktop-first, dark-mode, in-universe Schokk Industry information system for Schokk Blitz. Built with Next.js, React, TypeScript, and repository-managed JSON content. Configured for GitHub Pages static export at `https://z3r0-foxtrot.github.io/fixed-schokk-blitz/`.
 
 ## What's included
 
@@ -87,14 +87,14 @@ Replace `public/images/branding/logo.svg` to customize the logo artwork. The cur
 
 ## GitHub Pages deployment
 
-This project is configured for the repository URL `https://z3r0-foxtrot.github.io/Schokk-Industry/`.
+This project is configured for the repository URL `https://z3r0-foxtrot.github.io/fixed-schokk-blitz/`.
 
-1. Upload the **contents of this project folder** to the root of the `Schokk-Industry` repository. Do not upload the ZIP itself as the website source.
+1. Upload the **contents of this project folder** to the root of the `fixed-schokk-blitz` repository. Do not upload the ZIP itself as the website source.
 2. Push the files to the `main` branch.
 3. In GitHub, open **Settings → Pages**.
 4. Under **Build and deployment → Source**, select **GitHub Actions**.
 5. Open the repository's **Actions** tab and wait for `Deploy Schokk Blitz Database to GitHub Pages` to complete.
-6. Visit `https://z3r0-foxtrot.github.io/Schokk-Industry/`.
+6. Visit `https://z3r0-foxtrot.github.io/fixed-schokk-blitz/`.
 
 The included workflow builds the static site into `out/` and deploys it to GitHub Pages. Every push to `main` triggers a new deployment. No Vercel project, database, environment variables, authentication, or external CMS is required.
 
