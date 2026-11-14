@@ -1,6 +1,9 @@
 import type { NextConfig } from "next";
 
-const repoName = "Schokk-Industry";
+// GitHub Pages project-site URL:
+// https://z3r0-foxtrot.github.io/fixed-schokk-blitz/
+const repoName = "fixed-schokk-blitz";
+
 const nextConfig: NextConfig = {
   output: "export",
   basePath: `/${repoName}`,
